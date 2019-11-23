@@ -1,0 +1,21 @@
+{
+  "name": "first",
+  "version": "1.4.5",
+  "description": "first npm",
+  "main": "4",
+  "scripts": {
+    "test": "echo-mohammed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "l"
+  ],
+  "author": "mohammed",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
