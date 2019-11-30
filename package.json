@@ -1,0 +1,26 @@
+{
+  "name": "npm-lab-recoded-sanaa-2019",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaghreedNageeb/npm-lab-recoded-sanaa-2019.git"
+  },
+  "keywords": [
+    "first",
+    "app"
+  ],
+  "author": "Tgahreed Nageeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaghreedNageeb/npm-lab-recoded-sanaa-2019/issues"
+  },
+  "homepage": "https://github.com/TaghreedNageeb/npm-lab-recoded-sanaa-2019#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
