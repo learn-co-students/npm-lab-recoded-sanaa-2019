@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-recoded-sanaa-2019",
+  "version": "1.0.0",
+  "description": "npmlab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atheeralaghbari/npm-lab-recoded-sanaa-2019.git"
+  },
+  "author": "atheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atheeralaghbari/npm-lab-recoded-sanaa-2019/issues"
+  },
+  "homepage": "https://github.com/Atheeralaghbari/npm-lab-recoded-sanaa-2019#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
