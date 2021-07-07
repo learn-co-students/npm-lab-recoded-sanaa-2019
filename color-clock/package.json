@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "clock application that changes color every second",
+  "main": "0",
+  "scripts": {
+    "test": "echo 'Hello, Eman!'"
+  },
+  "author": "Eman",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
